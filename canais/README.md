@@ -1,4 +1,4 @@
-## :sparkles: devs
+## :sparkles: canais
 
 ### [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA)
 ### [Felipe Fialho](https://www.youtube.com/channel/UCHf-3DHd-VYn7HmddjfBj0A)
