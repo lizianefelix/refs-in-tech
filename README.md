@@ -1,16 +1,17 @@
 
 ## :bulb: refs-in-tech
 
-Objetivo de juntar em um único lugar várias referências de livros, sites, devs, podcasts e mais, da área de programação
+Aglomeração organizada de várias referências de devs, livros, podcasts, sites e mais, da área de programação :boom:
 
 ## :green_heart: guia
 
-### [Livros](https://github.com/lizianefelix/refs-in-tech/blob/master/livros)
+### [Artigos](https://github.com/lizianefelix/refs-in-tech/blob/master/artigos)
+### [Canais](https://github.com/lizianefelix/refs-in-tech/blob/master/canais)
 ### [Cursos](https://github.com/lizianefelix/refs-in-tech/blob/master/cursos)
 ### [Devs](https://github.com/lizianefelix/refs-in-tech/blob/master/devs)
-### [Sites](https://github.com/lizianefelix/refs-in-tech/blob/master/sites)
-### [Artigos](https://github.com/lizianefelix/refs-in-tech/blob/master/artigos)
+### [Livros](https://github.com/lizianefelix/refs-in-tech/blob/master/livros)
 ### [Podcasts](https://github.com/lizianefelix/refs-in-tech/blob/master/podcasts)
+### [Sites](https://github.com/lizianefelix/refs-in-tech/blob/master/sites)
 
 ## :twisted_rightwards_arrows: contributing
 
