@@ -10,6 +10,7 @@ Aglomeração organizada de várias referências de devs, livros, podcasts, site
 ### [Cursos](https://github.com/lizianefelix/refs-in-tech/blob/master/cursos)
 ### [Devs](https://github.com/lizianefelix/refs-in-tech/blob/master/devs)
 ### [Livros](https://github.com/lizianefelix/refs-in-tech/blob/master/livros)
+### [Livecoders](https://github.com/lizianefelix/refs-in-tech/blob/master/livecoders)
 ### [Podcasts](https://github.com/lizianefelix/refs-in-tech/blob/master/podcasts)
 ### [Sites](https://github.com/lizianefelix/refs-in-tech/blob/master/sites)
 
